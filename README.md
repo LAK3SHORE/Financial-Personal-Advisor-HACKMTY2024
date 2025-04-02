@@ -9,4 +9,4 @@ This repository contains a web application built using Streamlit and OpenAI, des
 - **Calculate Savings Rate**: Get an overview of the user's current savings rate.
 - **Predict Future Expenses**: Forecast future expenses for the next three months based on historical spending data.
 - **Generate Personalized Financial Plans**: Provide financial recommendations tailored to user-defined goals and timeframes.
-- **Answer Financial Questions**: Users can ask additional questions about their financial plans, and the app will generate responses using OpenAI.
+- **Answer Financial Questions**: Users can ask additional questions about their financial plans, and the app will generate responses using OpenAI's API.
